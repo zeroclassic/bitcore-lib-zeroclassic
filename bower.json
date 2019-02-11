@@ -1,0 +1,31 @@
+{
+  "name": "bitcore-lib-zeroclassic",
+  "main": "./bitcore-lib-zeroclassic.min.js",
+  "version": "0.13.19",
+  "homepage": "http://bitcore.io",
+  "authors": [
+    "BitPay, Inc.",
+    "Jack Grigg"
+  ],
+  "description": "A JavaScript lib for zeroclassic projects.",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "zeroclassic",
+    "bitcore",
+    "btc",
+    "satoshi"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "CONTRIBUTING.md",
+    "gulpfile.js",
+    "lib",
+    "index.js",
+    "karma.conf.js",
+    "npm-shrinkwrap.json",
+    "test"
+  ]
+}
